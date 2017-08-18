@@ -1,6 +1,6 @@
 module.exports = function (sails) {
 
-    var discoverBridges = require('node-milight-promise').discoverBridges;
+    var Milight = require('node-milight-promise');
     var exec = require('./lib/milight.exec.js');
     var setup = require('./lib/milight.setup.js');
     var init = require('./lib/milight.init.js');
@@ -13,6 +13,6 @@ module.exports = function (sails) {
         exec,
         setup,
         init,
-        discoverBridges
+        Milight
     };
 };
