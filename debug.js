@@ -1,6 +1,6 @@
 let id = 1;
 
-gladys = {
+const gladys = {
   on() {},
   device: {
     create(device) {
