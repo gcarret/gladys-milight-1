@@ -1,18 +1,16 @@
 # Gladys Milight V6
 ## Installation
 ### Step: 1
-	Install the module in Gladys
-  advanced mode :
-  name    version                     url                               slug
-  Milight  1.0.0   https://github.com/AdrienDesola/gladys-milight.git  milight
-	Reboot Gladys
+Install the module in Gladys
+advanced mode : Milight  1.0.0   https://github.com/AdrienDesola/gladys-milight.git  milight
+Reboot Gladys
 
 ### Step: 2
-	Go on the dashboard on "Module" view, then in the module list press the "config" button on the Milight module.
+Go on the dashboard on "Module" view, then in the module list press the "config" button on the Milight module.
 
 ### Step: 3
-	**there is no step 3**
-	All off your devices are already configured.
+**there is no step 3**
+All off your devices are already configured.
 
 **Go on the dashboard on « Devices » view and start use it.**
 
