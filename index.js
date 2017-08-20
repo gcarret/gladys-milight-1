@@ -13,8 +13,8 @@ module.exports = function (sails) {
         exec,
         setup,
         init,
-        shared() {
-          return shared
+        getBridge(id) {
+          return shared.bridges[id]
         }
     };
 };
