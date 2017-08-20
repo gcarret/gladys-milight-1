@@ -7,7 +7,7 @@ module.exports = function (sails) {
     var init = require('./lib/milight.init.js');
 
     gladys.on('ready', function(){
-        setup();
+        init();
     });
 
     return {
