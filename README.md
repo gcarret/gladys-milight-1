@@ -10,9 +10,9 @@ Go on the dashboard on "Module" view, then in the module list press the "config"
 
 ### Step: 3
 **there is no step 3**
-All off your devices are already configured.
+All your devices are already configured.
 
-**Go on the dashboard on « Devices » view and start use it.**
+**Go on the dashboard on « Devices » view and start using it.**
 
 ## Hack n Scripts
 Gladys Milight V6 are easy to use on " Scripts " view.
